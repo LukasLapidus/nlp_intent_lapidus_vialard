@@ -1,5 +1,4 @@
-# nlp_intent_lapidus_vialard
-FastText based model for multiligual Dialogue Act (DA) and Emotion/Sentiment (E/S) classification
+# FastText based model for multiligual Dialogue Act (DA) and Emotion/Sentiment (E/S) classification
 
 Project for the Advanced Natural Language Processing course at CentraleSupélec lectured by Professor Pierre Colombo.
 
@@ -7,7 +6,8 @@ Project for the Advanced Natural Language Processing course at CentraleSupélec 
 The goal of the project is to classify uterrances regarding their intent.
 
 ## Context
-
+Dialogue Act (DA) and Emotion/Sentiment (E/S) identification is a crucial domain of research for chatbot like ChatGPT or spoken dialogue system like Alexa.
+In this work, we use Deep learning techniques applied to Natural Language Processing (NLP) to classify utterance of transcripted spoken dialogues in different languages. Based on pre-trained models and embedding like FastText, our experiments have various performance depending of the dataset used to train the model
 
 ## Datasets
 
@@ -19,4 +19,4 @@ The goal of the project is to classify uterrances regarding their intent.
 | vm2                      | German                                           | 25060                    | 2860                     |2855                     |
 | dihana                   | Spanish                                           | 19063                    | 2123                     |2361                     
 
-We will apply the different models on these datasets to have it's efficiency.
+We will apply the different models on these datasets to have their efficiencies.
